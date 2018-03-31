@@ -1,5 +1,4 @@
 # buzzlight
-Kaggle_Study =]
 
 Hello, guys I`m buzzlight from south korea 
 
