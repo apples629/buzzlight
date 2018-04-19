@@ -1,5 +1,3 @@
 # buzzlight
 
-Hello, guys I`m buzzlight from south korea 
-
-I hpoe u solve the problem or understading whatever u studying after visiting my git  =]
+[A](New_York_City_Taxi_Trip_Duration[Merge_dataset] .ipynb)
